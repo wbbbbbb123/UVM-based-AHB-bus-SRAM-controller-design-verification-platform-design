@@ -5,9 +5,7 @@ Name                       Type                        Size  Value
 ------------------------------------------------------------------
 
 uvm_test_top               my_case2                    -     @457 
-
   env                      my_env                      -     @473 
-  
     agt_mdl_fifo           uvm_tlm_analysis_fifo #(T)  -     @693 
     
       analysis_export      uvm_analysis_imp            -     @737 
