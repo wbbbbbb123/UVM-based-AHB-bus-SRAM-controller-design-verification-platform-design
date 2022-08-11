@@ -1,7 +1,6 @@
 # UVM-based-AHB-bus-SRAM-controller-design-verification-platform-design
 ## UVM testbench topology
 ****
-------------------------------------------------------------------
 Name                       Type                        Size  Value
 uvm_test_top               my_case2                    -     @457
   env                      my_env                      -     @473 
@@ -62,5 +61,4 @@ uvm_test_top               my_case2                    -     @457
     scb                    my_scoreboard               -     @509 
       act_port             uvm_blocking_get_port       -     @1185
       exp_port             uvm_blocking_get_port       -     @1176
-------------------------------------------------------------------
 ****
