@@ -1,6 +1,5 @@
 # UVM-based-AHB-bus-SRAM-controller-design-verification-platform-design
 ## UVM testbench topology
-
 ------------------------------------------------------------------
 
 Name                       Type                        Size  Value
