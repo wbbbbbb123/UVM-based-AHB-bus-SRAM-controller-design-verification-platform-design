@@ -61,6 +61,6 @@ uvm_test_top               my_case2                    -     @457
     scb                    my_scoreboard               -     @509 
       act_port             uvm_blocking_get_port       -     @1185
       exp_port             uvm_blocking_get_port       -     @1176
-111      
+  
 ------------------------------------------------------------------
 
