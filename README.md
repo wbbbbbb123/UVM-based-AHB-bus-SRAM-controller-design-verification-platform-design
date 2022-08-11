@@ -70,4 +70,4 @@ UVM testbench topology
           exp_port             uvm_blocking_get_port       -     @1176
 ------------------------------------------------------------------
 
-你也可以在EDA playground上查看此工程,地址为:https://www.edaplayground.com/x/dbgS
+You can also view this project on the EDA playground at the address:https://www.edaplayground.com/x/dbgS
