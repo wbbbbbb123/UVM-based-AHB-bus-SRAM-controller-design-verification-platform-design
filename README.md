@@ -64,4 +64,7 @@ UVM testbench topology
           act_port             uvm_blocking_get_port       -     @1185
           exp_port             uvm_blocking_get_port       -     @1176
 ------------------------------------------------------------------
+### ahb_sramc_control_architecture
+
+![ahb_sramc_control_architecture](https://user-images.githubusercontent.com/71707557/184055104-ff7067e9-9f42-4053-8d02-fa07350aeb69.png)
 
